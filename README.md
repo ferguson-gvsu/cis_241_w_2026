@@ -1,2 +1,3 @@
-# cis_241_w_2026
-Class materials for my Winter 2026 section of CIS 241 - System Level Programming and Utilities
+# CIS 241 - Winter 2026
+
+Here you'll find my lecture slides and any additional files needed to complete our coursework. 
