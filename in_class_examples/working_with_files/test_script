@@ -1,29 +1,0 @@
-Script started on 2026-01-26 13:43:06-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="55" LINES="27"]
-[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[00m$ ls
-[?2004lmmsa-icu-beds.csv     safe.csv
-random_data_file.csv  test_script
-[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[00m$ cat rran[K[K[Kandom_data_file.csv 
-[?2004ldog
-cat
-dog
-antelope
-anteater
-dog
-dog
-dog
-cat
-cat
-elephant
-elephant
-elephant
-cat
-[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[00m$ sort random_data_file.csv | uniq
-[?2004lanteater
-antelope
-cat
-dog
-elephant
-[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[00m$ exit
-[?2004lexit
-
-Script done on 2026-01-26 13:43:23-05:00 [COMMAND_EXIT_CODE="0"]

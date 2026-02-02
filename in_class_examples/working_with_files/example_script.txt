@@ -1,0 +1,16 @@
+Script started on 2026-01-28 12:07:30-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="55" LINES="27"]
+[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[00m$ ls
+[?2004lall_pokemon.csv     mmsa-icu-beds.csv     safe.csv
+example_script.txt  random_data_file.csv  test_script
+[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[00m$ tail -n 5 random_data_file.csv 
+[?2004lcat
+elephant
+elephant
+elephant
+cat
+[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[00m$ pwd
+[?2004l/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files
+[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/03_winter_2026/cis_241/git_public/in_class_examples/working_with_files[00m$ exit
+[?2004lexit
+
+Script done on 2026-01-28 12:07:59-05:00 [COMMAND_EXIT_CODE="0"]
