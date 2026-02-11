@@ -1,0 +1,38 @@
+- Basic directory navigation.
+    - Example: Navigate into the "source" directory.
+    - Example: Navigate out of this directory, up to its parent directory.
+- Absolute vs relative paths, filesystems basics
+    - Example: Can you briefly explain the difference between absolute and relative paths?
+    - Example: Can you move to the blah directory via a relative path?
+    - Example: Can you create a blah directory via absolute path?
+    - What do these symbols mean in the context of paths: /, .., ~
+- Remove a file or directory.
+    - Example: Delete the "bin" directory.
+- Make very simple edits in vim.
+    - Example: Create a file called name.txt using vim. Type your name into the file, save, and exit.
+- Create a directory
+    - Example: Create a new directory named "code"
+- Copy / move / rename files and directories
+    - Example: Copy the "source" directory, naming the copy "backup"
+    - Example: Rename "working.py" to "main.py"
+    - When do we need the recursive flag?
+- View files
+    - Can you tell me what files are in the current directory?
+- View the contents of a file
+    - Example: Can you show the whole contents of doc.txt?
+    - Example: Can you show the last few lines of doc.txt?
+    - Example: doc.txt is very large, how can we look at it in a manageable way?
+- Figure out where you currently are in the filesystem
+    - What is the command to do this?
+- Demonstrate looking for more information on a command
+    - Using either the help option or the manpages
+ - Connecting via ssh
+    - Can you connect to the EOS server?
+    - I don't need you to fully explain how hostname aliases or ssh keys work
+      - But be able to briefly explain what they do for us
+- Transferring files via scp
+    - Example: Can you transfer input.txt from your laptop to the server?
+    - Example: Can you transfer output.txt from the server to your laptop?
+- Basics of I/O redirection and piping
+  - Know the symbols (>, <, |) and what they do
+- Basics of grep

@@ -1,0 +1,5 @@
+ant
+elephant
+elephant
+elephant
+cat
