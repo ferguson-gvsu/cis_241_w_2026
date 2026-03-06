@@ -1,0 +1,15 @@
+1. What is the difference between 
+    *, +, and ? in regex?
+
+2. What's the difference between 
+    (cat) and [cat] in regex?
+
+3. What strings match [^5][[:digit:]]+
+  A) “12”     B) “3”, 
+  C) “50”     D) “15” 
+  E) “b0”,    F) “10000”
+  G) “1050”   H) “$10”, 
+  I) “$4.50”  J) “2!”
+
+4. Give two strings that match, and one string that doesn't:
+    Hello+|hello+|Goodbye+
