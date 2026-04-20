@@ -11,14 +11,19 @@ int main(){
   printf("s3: %s\n", s3);
   strcat(s1, s3);
   printf("s1 (after): %s\n", s1);
-  //printf("s2: %s\n", s2);
-  //printf("s3: %s\n", s3);
-  //
+  printf("s2: %s\n", s2);
+  printf("s3: %s\n", s3);
   char* big_str = (char*)malloc(100);
-  //strncpy(big_str, "hello", 100);
-  //printf("%s\n", big_str);
-  //strcat(big_str, " there");
-  //printf("%s\n", big_str);
+  strncpy(big_str, "hello", 100);
+  printf("%s\n", big_str);
+  strcat(big_str, " there");
+  printf("%s\n", big_str);
+  float pi = 3.14;
+  float double_pi = pi * 2;
+  sprintf(big_str, "pi is %f, twice that is %f", pi, double_pi);
+  printf("%s\n", big_str);
+  printf("%d\n", strlen("hello"));
+  
   //char* end = strchr(big_str, '\0');
   //float res = 3.14 * 12;
   //sprintf(end, " 12 * pi is: %f", res);
