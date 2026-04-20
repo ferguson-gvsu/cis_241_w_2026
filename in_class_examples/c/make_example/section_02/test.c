@@ -10,7 +10,7 @@ int this_is_a_new_func(){
   return 12;
 }
 int func_1(){
-  int res = 0;
+  int res = 1;
   for(int i = 1; i < 1000000; i++){
     res += i;
   }
