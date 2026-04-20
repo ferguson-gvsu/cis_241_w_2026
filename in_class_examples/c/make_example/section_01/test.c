@@ -1,6 +1,6 @@
 #include "test.h"
 int func_0(){
-  int res = 0;
+  int res = 1;
   for(int i = 0; i < 1000000; i++){
     res += i;
   }
